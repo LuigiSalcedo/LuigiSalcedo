@@ -4,7 +4,7 @@ I'm César Luigi Salcedo.
 
 From Cartagena de Indias, Colombia. 🏖️
 
-I'm a Software Developer and System Engineering student. 💻
+Software Developer and System Engineering student. 💻
 
 **What language or technologies do I use?**
 
