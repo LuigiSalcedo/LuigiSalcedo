@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello, everyone 👋
 
-<!--
-**LuigiSalcedo/LuigiSalcedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm César Luigi Salcedo.
 
-Here are some ideas to get you started:
+From Cartagena de Indias, Colombia. 🏖️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Developer and System Engineering student. 💻
+
+**What language or technologies do I use?**
+
+- ☕ *Java*
+- 🤓 *Go (Golang)*
+- 💾 *SQL (MySQL and PosgreSQL)*
+- 😼 *Git & GitHub*
+- 🎨 *Some of HTML, CSS and JS*
+
+**Social media**
+
+- 🐦✖️ *Twitter | X: https://twitter.com/@LuigiSalcedo96*
+- 💼 *LinkedIn: https://linkedin.com/in/c%C3%A9sar-salcedo/*
+
+**Language**
+
+- *Spanish (Native)*
+- *English*
