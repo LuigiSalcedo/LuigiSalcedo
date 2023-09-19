@@ -8,9 +8,9 @@ Software Developer and System Engineering student. 💻
 
 **What language or technologies do I use?**
 
-- ☕ Java
+- ☕ Java with Spring Boot.
 - 🤓 Go (Golang)
-- 💾 SQL (MySQL and PostgreSQL)
+- 💾 SQL (MySQL, PostgreSQL & MariaDB)
 - 😼 Git & GitHub
 - 🎨 Some of HTML, CSS and JS
 
@@ -19,7 +19,7 @@ Software Developer and System Engineering student. 💻
 - 🐦✖️ Twitter | X: https://twitter.com/@LuigiSalcedo96
 - 💼 LinkedIn: https://linkedin.com/in/c%C3%A9sar-salcedo/
 
-**Language**
+**Languages**
 
 - Spanish (Native)
 - English
