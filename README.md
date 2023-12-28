@@ -17,7 +17,7 @@ Software Developer and System Engineering student. 💻
 **Social media**
 
 - 🐦✖️ Twitter | X: https://twitter.com/@LuigiSalcedo96
-- 💼 LinkedIn: https://linkedin.com/in/c%C3%A9sar-salcedo/
+- 💼 LinkedIn: https://linkedin.com/in/cesar-luigi-salcedo/
 
 **Languages**
 
