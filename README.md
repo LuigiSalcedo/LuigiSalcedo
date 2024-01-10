@@ -12,7 +12,7 @@ Software Developer and System Engineering student. 💻
 - 🤓 Go (Golang)
 - 💾 SQL (MySQL, PostgreSQL & MariaDB)
 - 😼 Git & GitHub
-- 🎨 Some of HTML, CSS and JS
+- 🎨 Vue.js
 
 **Social media**
 
