@@ -10,13 +10,13 @@ Software Developer and System Engineering student. 💻
 
 - ☕ Java with Spring Boot.
 - 🤓 Go (Golang)
-- 💾 SQL (MySQL, PostgreSQL & MariaDB)
+- 💾 SQL
+- 🔑 Redis
 - 😼 Git & GitHub
 - 🎨 Vue.js
 
 **Social media**
 
-- 🐦✖️ Twitter | X: https://twitter.com/@LuigiSalcedo96
 - 💼 LinkedIn: https://linkedin.com/in/cesar-luigi-salcedo/
 
 **Languages**
